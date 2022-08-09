@@ -3,3 +3,6 @@ h1{text-align: center; font-size: 50px;}
 p{font-size: 20px; color: #FBAF3C;}
 h3{text-align: center; font-size: 35px; color: #E3DC36;}
 h1, h3{background-color: #4549FF;}
+
+#cabeçalho{width: 50%}
+#turma{width: 50%; margin-left: 360px}
